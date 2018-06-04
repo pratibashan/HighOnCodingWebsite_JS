@@ -1,0 +1,65 @@
+.container {
+    display: flex;
+    flex-direction: column;
+} 
+.headerDiv {
+    width:95%;
+    height:100px;
+    background-color: blue;
+    color:white;
+    
+    margin:20px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+} 
+.clsTitle {
+    
+    margin: 20px;
+}
+.clsHomeSpan {
+    margin:20px;
+}
+
+.clsCategoriesSpan {
+    margin:20px;
+}
+.clsArticleDiv1 {
+    margin-left:20px;
+    margin-right: 20px;
+    padding:5px;
+    height:200px;
+    background-color: grey;
+    color:black;
+    display:flex;
+    flex-direction: column;
+    
+    
+}
+/* .clsArticle1Head {
+    margin:20px;
+} */
+/* .divArticle1Paragraph {
+  
+    margin-left:20px;
+    margin-right: 20px;
+} */
+
+.clsArticleDiv2 {
+    margin-left:20px;
+    margin-right: 20px;
+    padding:5px;
+    height:200px;
+    color:black;
+    display:flex;
+    flex-direction: column;
+} 
+
+.clsArticle2Head {
+    color: blue;
+    
+}
+.clsFooterDiv1 {
+    background-color: orange;
+    color:white;
+}
